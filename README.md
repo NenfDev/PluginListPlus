@@ -1,5 +1,8 @@
 
-1780732977115.png
+<img width="1200" height="400" alt="pluginlistplus_logo" src="https://github.com/user-attachments/assets/d5d8e38f-16cd-4fc9-9a75-ead088729d44" />
+
+
+
 
 A clean, styled replacement for /plugins, /pl, and /plist.
 
@@ -112,8 +115,3 @@ Startup Error Lookup ⟫ Check the last startup error for any disabled plugin di
 2. Restart your server.
 
 3. Run /pluginlist and pick your style.
-
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
