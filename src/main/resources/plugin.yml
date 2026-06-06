@@ -1,0 +1,12 @@
+name: PluginLister
+description: $description
+prefix: Pluginz
+version: '${version}'
+
+main: dev.lsdmc.pluginLister.PluginLister
+paperPluginLoader: dev.lsdmc.pluginLister.PluginListerLoader
+api-version: '1.21.11'
+load: STARTUP
+
+authors: [ Nenf ]
+website: https://lsdmc.dev
